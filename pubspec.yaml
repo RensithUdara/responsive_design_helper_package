@@ -1,7 +1,7 @@
 name: responsive_design_helper
 description: A Flutter package providing utilities for responsive design across different screen sizes.
 version: 0.0.1
-homepage: https://github.com/your_username/responsive_design_helper # Update this with your package's homepage
+homepage: https://github.com/RensithUdara/responsive_design_helper_package
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
